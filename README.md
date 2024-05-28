@@ -38,6 +38,7 @@ Misc. Notes:
 - It’s a super common “joke” among criminal attorneys in the state, “Supreme Court overturned this.” “Yeah, but do you have a South Carolina case?"
 - How to parse a Supreme Court case from a data structure standpoint? There are sometimes concurrences that are not controlling law and then dissents which could really undermine the understanding of a model
 - We want the ability, in a later version, to upload multiple videaos and have the AIs consider them as part of the evidence packet that goes through the expert systems for analysis. 
+- Could at some point validate qualified immunity claims
 
 Want to help us code Legal Beagle?
 We absolutely invite collaboration on this open source project, and will gladly consider providing access to those who have an interest in the legal aspect of this project, plus some experience that they could teach us, rather then us blindly leading the blind. In the future, we might consider adding noobs that we are willing to teach, but we have to come up to speed first. 
