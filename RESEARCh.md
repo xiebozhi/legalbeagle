@@ -1,0 +1,5 @@
+https://blogs.loc.gov/law/2013/03/frequent-reference-question-how-many-federal-laws-are-there/
+
+In an example of a failed attempt to tally up the number of laws on a specific subject area, in 1982 the Justice Department tried to determine the total number of criminal laws. In a project that lasted two years, the Department compiled a list of approximately 3,000 criminal offenses. This effort, headed by Ronald Gainer, a Justice Department official, is considered the most exhaustive attempt to count the number of federal criminal laws. In a Wall Street Journal article about this project, “this effort came as part of a long and ultimately failed campaign to persuade Congress to revise the criminal code, which by the 1980s was scattered among 50 titles and 23,000 pages of federal law.”
+
+#Bobb's note: the above makes me angry, now that I'm interested in webcrawling relevant federal laws :/
