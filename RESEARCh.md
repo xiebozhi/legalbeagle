@@ -54,3 +54,12 @@ When creating an expert system with LLM, it is crucial to select the appropriate
 7. GPTforALL: GPTforALL is a language model designed to be more inclusive and accessible. It has been trained on diverse datasets and can provide text generation that is more representative of different cultures and backgrounds. This makes it an ideal choice for expert systems that require more inclusive and diverse text generation.
 
 8. Private GPT: Private GPT is a language model designed to provide secure and private text generation. It can be used in applications where data privacy is critical, such as healthcare or finance. Private GPT can be fine-tuned for specific domains while ensuring the privacy and security of sensitive information.
+
+
+
+Bobb's note: Thinking from the above that RoBERTa is the right model, seeking a howto on how to accomplish it:
+
+https://medium.com/analytics-vidhya/create-a-tokenizer-and-train-a-huggingface-roberta-model-from-scratch-f3ed1138180c
+
+Legal Dictionary: https://www.nolo.com/dictionary/a
+

@@ -3,7 +3,7 @@
 28 May 2024
 
 Legal Beagle is an idea for a project where we will build a legal Expert System, which is comprised of multiple Large Language Models (LLMs) that have been re-trained to be experts on on specific legal domains. 
-This project is of intrest to Jason because in his work as a lawyer. And this is a personal passion project / portfolio item for Bobb who is considering a PhD in AI and watches too many youtube audits. 
+This project is of intrest to Jason because of his work as a lawyer. And this is a personal passion project / portfolio item for Bobb who is considering a PhD in AI and watches too many youtube audits. 
 
 We see two specific domains: criminal and civil. Early in the project, we will concentrate specifically on criminal proceedings in South Carolina, as this is our first LLM project and we need a narrow focus so that we can learn. In time, we expect this will be extended into every US state.  
 
